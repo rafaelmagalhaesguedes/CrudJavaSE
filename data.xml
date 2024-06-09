@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><records>
+  <!-- Example Registers -->
+  <record>
+    <id>123</id>
+    <name>John Doe</name>
+  </record>
+  <record>
+    <id>456</id>
+    <name>Jane Smith</name>
+  </record>
+<record><id>123</id><name>John Doe</name></record><record><id>123</id><name>John Doe</name></record><record><id>789</id><name>Michael</name></record><record><id>333</id><name>Rafael M.</name></record><record><name>Guedes</name><id>1</id></record></records>
